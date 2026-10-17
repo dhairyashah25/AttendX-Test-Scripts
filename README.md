@@ -11,3 +11,5 @@ A repository for student attendance application test scripts.
 ## Objective
 To demonstrate Git version control, commits, GitHub
 collaboration, push, pull, and commit history.
+
+Remote collaboration update: README edited on GitHub.
